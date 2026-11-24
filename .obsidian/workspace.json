@@ -11,10 +11,14 @@
             "id": "4a09af75f1bcf600",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/20261124-临时笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20261124-临时笔记"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/20261124-临时笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/20261124-临时笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/20261124-临时笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +190,11 @@
   },
   "active": "4a09af75f1bcf600",
   "lastOpenFiles": [
+    "scripts/README.md",
+    "scripts/git-auto-push.sh",
+    "scripts",
+    "notes/20261124-临时笔记.md",
+    "notes",
     "Welcome.md"
   ]
 }
